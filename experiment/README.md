@@ -1,4 +1,4 @@
-### Experiment Design 1: Finding the number of vectors in xyz space that can have all negative dot product
+### Experiment Design 0: Finding the number of vectors in xyz space that can have all negative dot product
 
 #### Idea:
 
