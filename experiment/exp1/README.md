@@ -1,4 +1,4 @@
-### Experiment Design: Finding the number of vectors in xyz space that can have all negative dot product
+### Experiment Design 1: Finding the number of vectors in xyz space that can have all negative dot product
 
 #### Idea:
 
@@ -13,4 +13,4 @@ Introduction to Linear Algebra by Gilbert Strang, 4e, page 21, Problem Set 1.2 (
 #### Conclusion:
 
 1. 4 vectors can be found such that they have ndp wrt every other vectors in that set in xyz space. [I've found 86K vector quadruples in range -500 to 500].
-2. Hypothesis: n-1 vectors can be found in n-d space.
+2. <strong>Hypothesis: n-1 vectors can be found in n-d space.</strong>
