@@ -8,7 +8,7 @@
 ### 18.06 Spring 2020 [[Resource](https://github.com/mitmath/1806/blob/master/summaries.md)]
 
 1. Recietation (2019+2020)
-2. 7 Homeworks with solution (2020)
+2. 7 Homeworks with solution (2020) [2/7]
 3. Slides and others
 
 ### 18.065 Spring 2018

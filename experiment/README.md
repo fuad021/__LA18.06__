@@ -13,4 +13,4 @@ Introduction to Linear Algebra by Gilbert Strang, 4e, page 21, Problem Set 1.2 (
 #### Conclusion:
 
 1. 4 vectors can be found such that they have ndp wrt every other vectors in that set in xyz space. [I've found 86K vector quadruples in range -500 to 500].
-2. <strong>Hypothesis: n-1 vectors can be found in n-d space.</strong>
+2. <strong>Hypothesis: n+1 vectors can be found in n-d space.</strong>
